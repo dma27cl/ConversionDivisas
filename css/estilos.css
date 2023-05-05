@@ -1,0 +1,64 @@
+html body{
+    font-family: 'Open Sans', sans-serif;
+    background-color: #F1F1F1;
+    color: #0D1C47;
+}
+
+.izq {
+    width: fit-content;
+    background-color: rgb(255, 255, 255);
+    margin: 2.2rem auto;
+    height: fit-content;
+    font-family: 'Poppins', sans-serif;
+    border-radius: 14px;
+    padding: 2.5em;
+}
+
+.izq h1{
+   font-size: 1.7em;
+   margin-bottom: 0.1em;
+   font-weight: bold;
+}
+
+.izq h5{
+    font-size: 1em;
+ }
+
+
+.linea input{
+    border:none;
+    border-bottom:1px solid #5b5b5b;
+    width: 100%;
+}
+
+.conversion h2{
+    font-weight: lighter;
+    margin-top: 0.8em;
+    margin-bottom: 0.8em;
+    font-size: 1.2em;
+}
+
+select {
+    background: transparent;
+    border: none;
+    font-size: 14px;
+    height: 30px;
+    padding: 5px;
+    width: 310px;
+ }
+
+ .fa-solid{
+    font-size: 2em;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+ }
+
+ .btn{
+    width: 100%;
+    margin-top: 0.3em;
+ }
+
+ .resultados{
+    margin-top: 1em;
+    color:#5b5b5b;
+ }
